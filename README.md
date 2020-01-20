@@ -1,5 +1,5 @@
 # IA_AlgoritmoGenetico
-Algoritmo Genético para maximização de funções polinomiais de terceiro grau positivas.
+Algoritmo Genético para maximização de funções de três dimensões.
 
 ## Como usar
 No arquivo Genetico.py, altere a Função Desejada para a função que deseja maximizar no local indicado.
