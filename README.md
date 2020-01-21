@@ -1,7 +1,7 @@
 # AI_Genetic-Algorithm
 Genetic Algorithm for maximizing three dimension functions.
 ## How to Use
-In the Genetico.py file, change the desired function to the function you want to maximize.
+In the GeneticAlgorithm.py file, change the desired function to the function you want to maximize.
 ### Configurations
 It's possible to change the values for the mutation rate(0-1), size of the population and Cross Over rate(0-100). Just change the values in the beginning of the code.
 ## Method
